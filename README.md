@@ -1,5 +1,4 @@
-# Nabil-Bagus-Satrio
-Smart Glasses
+# Smart Glasses
 Smart glasses diperuntukan sebagai alat bantu orang buta agar bisa juga merasakan dunia dengan kenikmatan melihat, termasuk kemampuan pendeteksian objek dan pengenalan wajah
 Ada fitur-fitur yang sangat diunggulkan dari Smart Glasses yaitu:
 
